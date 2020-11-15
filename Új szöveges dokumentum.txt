@@ -1,3 +1,4 @@
-kecske = k; 
+kecske = kk; 
 kacha = ch;
 kkk = kóreai kulrúrális központ;
+kiszchibeh = k;
